@@ -22,7 +22,7 @@
 - :student: I’m currently learning `Latest trending Tech`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://github.com/JoJoDevAdventure/JoJoDevAdventure/files/10444513/Resume-ios_compressed.pdf](https://venkateshm.in/uploads/Venkatesh_Medisetti_Resume.pdf)).
-- :boom: You can visit my website from [here]((https://venkateshm.in/). 
+- :boom: You can visit my website from [here](https://venkateshm.in/). 
 <br>
 
 ### <picture> <img src="https://raw.githubusercontent.com/mvenki2014/JoJoDevAdventure/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
