@@ -21,7 +21,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Latest trending Tech`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://github.com/JoJoDevAdventure/JoJoDevAdventure/files/10444513/Resume-ios_compressed.pdf](https://venkateshm.in/uploads/Venkatesh_Medisetti_Resume.pdf)).
+- :thinking: I’m currently open for a new `freelancing job opportunity`, this is [MY RESUME](https://venkateshm.in/uploads/Venkatesh_Medisetti_Resume.pdf).
 - :boom: You can visit my website from [here](https://venkateshm.in/). 
 <br>
 
