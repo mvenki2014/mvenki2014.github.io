@@ -1,14 +1,11 @@
-<h1 align="center">Hi , I'm Youssef Bouhlel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Venkatesh Medisetti <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;iOS+Developer;UI/UX+Designer;Always+learning+new+things"></a>
 </p>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=JoJoDevAdventure&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="JoJoDevAdventure" height=25px, width=150px/> 
-	<a href = "https://commits.top/tunisia.html" target="_blank">
-		<img src="https://en9qbhatdkiqqfk.m.pipedream.net/" alt="Most Active Users" target="_blank" height=25px, width=300px/>
-	</a>
+	<img src="https://komarev.com/ghpvc/?username=mvenki2014&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="JoJoDevAdventure" height=25px, width=150px/> 
 </p>
 
 	
@@ -20,25 +17,25 @@
 <br><br>
 
 
-- :school: I am a `Junior` at Faculty of Computers & Informatics
+- :school: I am a `Sr. Software Engineer` at <a href="https://quisitive.com/">Quisitive</a>
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- :student: I’m currently learning `Latest trending Tech`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/JoJoDevAdventure/JoJoDevAdventure/files/10444513/Resume-ios_compressed.pdf).
-- :boom: You can visit my website from [here](https://youssef-bouhlel-portfolio.ml). 
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]([https://github.com/JoJoDevAdventure/JoJoDevAdventure/files/10444513/Resume-ios_compressed.pdf](https://venkateshm.in/uploads/Venkatesh_Medisetti_Resume.pdf)).
+- :boom: You can visit my website from [here]((https://venkateshm.in/). 
 <br>
 
-### <picture> <img src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+### <picture> <img src="https://raw.githubusercontent.com/mvenki2014/JoJoDevAdventure/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
+<img  src="https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 <p align="center">
-	<a href="mailto:youssef.b.air2@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/JoJoDevAdventure"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://wa.me/021653291225"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.linkedin.com/in/youssef-bouhlel/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="mailto:mvenki2014@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://github.com/mvenki2014"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://wa.me/919014551553"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/venkatesh-medisetti-35642693/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Programming languages
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+### <picture> <img src = "https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> Programming languages
+<img  src="https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <p align="center"> 
   &emsp; 
@@ -130,20 +127,20 @@
 
 <br> 
 
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+<img  src="https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-### <picture> <img src = "https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> Github Stats
-<img  src="https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
+### <picture> <img src = "https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/Statistics.gif?raw=true" width = 40px>  </picture> Github Stats
+<img  src="https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JoJoDevAdventure&theme=tokyonight_duo" alt="JoJoDevAdventure" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mvenki2014&theme=tokyonight_duo" alt="mvenki2014" /></p>
 
 </details>
   
@@ -153,7 +150,7 @@
 	
 <p align="center">
 
-![JoJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJoDevAdventure&show_icons=true&theme=radical)
+![JoJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvenki2014&show_icons=true&theme=radical)
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -164,7 +161,7 @@
 
 ----
 	
-[![JoJoDevAdventure's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoJoDevAdventure&theme=github)](https://github.com/JoJoDevAdventure/github-readme-activity-graph)
+[![Mvenki2014's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mvenki2014&theme=github)](https://github.com/mvenki2014/github-readme-activity-graph)
 
  
 </details>
@@ -173,7 +170,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JoJoDevAdventure&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="JoJoDevAdventure" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvenki2014&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="mvenki2014" /></a> </p>
 	
 </details>
 	
@@ -184,37 +181,37 @@
 <div>
   <p align="center">
     	<a href="https://github.com/JoJoDevAdventure/RPS-Multiplayer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=RPS-Multiplayer&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=RPS-Multiplayer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/JoJoDevAdventure/Marvel-vs-VIH">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=Marvel-vs-VIH&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Marvel-vs-VIH&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     	<a href="https://github.com/JoJoDevAdventure/iCookPad">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=iCookPad&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=iCookPad&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/Let-s-Skate">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=Let-s-Skate&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Let-s-Skate&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/Swift-Interview">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=Swift-Interview&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Swift-Interview&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/TwitterSwiftUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=TwitterSwiftUI&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=TwitterSwiftUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/SlotsGame">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=SlotsGame&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=SlotsGame&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/Guardians-Of-The-GalaxyP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=Guardians-Of-The-Galaxy&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Guardians-Of-The-Galaxy&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/FacebookSwiftUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=FacebookSwiftUI&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=FacebookSwiftUI&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/Netflix-Clone">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=Netflix-Clone&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Netflix-Clone&theme=tokyonight" alt="GitHub Stats" />
     	</a>
 	<a href="https://github.com/JoJoDevAdventure/TicTacToe">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=JoJoDevAdventure&repo=TicTacToe&theme=tokyonight" alt="GitHub Stats" />
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=TicTacToe&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
@@ -223,4 +220,4 @@
 </br></br>
 	
 ### 🐍 A Snake Eating my Contributions Graph
-![Snake animation](https://github.com/JoJoDevAdventure/JoJoDevAdventure/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mvenki2014/JoJoDevAdventure/blob/output/github-contribution-grid-snake.svg)
