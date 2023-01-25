@@ -150,7 +150,7 @@
 	
 <p align="center">
 
-![JoJo's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvenki2014&show_icons=true&theme=radical)
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mvenki2014&show_icons=true&theme=radical)
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -170,7 +170,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvenki2014&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="mvenki2014" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mvenki2014&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="mvenki2014" /></a> </p>
 	
 </details>
 	
