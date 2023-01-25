@@ -180,39 +180,10 @@
 	
 <div>
   <p align="center">
-    	<a href="https://github.com/JoJoDevAdventure/RPS-Multiplayer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=RPS-Multiplayer&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/mvenki2014/codeigniter-restserver">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=codeigniter-restserver&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/JoJoDevAdventure/Marvel-vs-VIH">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Marvel-vs-VIH&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/JoJoDevAdventure/iCookPad">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=iCookPad&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/Let-s-Skate">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Let-s-Skate&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/Swift-Interview">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Swift-Interview&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/TwitterSwiftUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=TwitterSwiftUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/SlotsGame">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=SlotsGame&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/Guardians-Of-The-GalaxyP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Guardians-Of-The-Galaxy&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/FacebookSwiftUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=FacebookSwiftUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/Netflix-Clone">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=Netflix-Clone&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/JoJoDevAdventure/TicTacToe">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=TicTacToe&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
+   
   </p>
 </div>
 </details>
