@@ -180,8 +180,8 @@
 	
 <div>
   <p align="center">
-    	<a href="https://github.com/mvenki2014/codeigniter-restserver">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=codeigniter-restserver&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/mvenki2014/sparss">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mvenki2014&repo=sparss&theme=tokyonight" alt="GitHub Status" />
     	</a>
    
   </p>
