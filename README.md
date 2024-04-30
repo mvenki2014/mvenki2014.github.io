@@ -21,8 +21,8 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Latest trending Tech`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `freelancing job opportunity`, this is [MY RESUME](https://venkateshm.in/uploads/Venkatesh_Medisetti_Resume.pdf).
-- :boom: You can visit my website from [here](https://venkateshm.in/). 
+- :thinking: I’m currently open for a new `freelancing job opportunity`, this is [MY RESUME](https://venkatesh.tech/uploads/Venkatesh_Medisetti_Resume.pdf).
+- :boom: You can visit my website from [here](https://venkatesh.tech/). 
 <br>
 
 ### <picture> <img src="https://raw.githubusercontent.com/mvenki2014/JoJoDevAdventure/main/Images/Connect-with-me.gif" width="100px"> </picture> Connect with me
@@ -38,18 +38,7 @@
 <img  src="https://github.com/mvenki2014/JoJoDevAdventure/blob/main/Images/borderseperator.gif">
 
 <p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white">
-  </a> 
-  &emsp; 
-   <a href="https://www.swift.org" target="_blank">
-    <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%2314354C.svg?style=for-the-badge&logo=swift&logoColor=orange">
-  </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white">
-  </a>
+
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
